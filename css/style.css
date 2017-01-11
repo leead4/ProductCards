@@ -1,0 +1,68 @@
+body {
+	background-color: lightblue;
+	
+}
+
+header.cardtitle {
+	border: dotted;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+article {  
+	width:30%;
+	height: 30%;
+	background-color:gray;
+	border: solid;
+    border-color: lightblue;
+    text-align: center;
+    margin: auto;
+    padding: .5em;
+    float: left;
+   }   
+
+article.cardONE {
+	clear: left;
+}
+
+div.description {
+	text-align: justify;
+}
+
+div.availabilty {
+	background-color: darkgray;
+	color: yellow;
+}
+
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+section.priceInfo {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bolder;
+	line-height: .7em;
+	margin-top: 2em;
+}
+
+section.specsStuff {
+	line-height: 50%;
+	margin-bottom: .5em;
+	font-weight: bold;
+	}
+
+img { 	
+	border: transparent;
+	border-spacing: 5%;
+	margin-top: .5em;
+}
+
+footer {
+	text-align: center;
+	font-family: Georgia;
+	font-size: 70%
+}
+
+
